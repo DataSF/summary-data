@@ -1,6 +1,6 @@
 Year,Owner Move In,Ellis Act Withdrawal,Demolition,Development Agreement,Condo Conversion
-1997,1229,6,54,0,1
-1998,1545,96,61,0,1
+1997,1229,1,31,0,1
+1998,1540,94,36,0,0
 1999,872,423,50,0,2
 2000,1013,274,71,0,4
 2001,802,194,98,0,7
@@ -9,7 +9,7 @@ Year,Owner Move In,Ellis Act Withdrawal,Demolition,Development Agreement,Condo C
 2004,345,303,67,0,8
 2005,267,298,61,0,0
 2006,227,262,42,0,3
-2007,181,236,43,0,3
+2007,181,237,43,0,3
 2008,169,194,38,0,2
 2009,120,48,33,0,2
 2010,128,70,31,106,4
@@ -17,4 +17,4 @@ Year,Owner Move In,Ellis Act Withdrawal,Demolition,Development Agreement,Condo C
 2012,174,99,43,232,11
 2013,275,231,129,0,12
 2014,318,102,48,0,10
-2015,99,50,16,0,0
+2015,148,67,21,0,1
